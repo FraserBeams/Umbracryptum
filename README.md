@@ -1,6 +1,6 @@
 # Umbracryptum
 
-Customs scripts used in our paper describing the cultivation of Candidatus 'Yngarchaeum umbracryptum'
+Customs scripts used in our paper describing the cultivation of Candidatus 'Ymjarchaeum umbracryptum'
 
 # Operon_singleton_opposite_strand_counter.py
 
